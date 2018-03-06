@@ -8,3 +8,4 @@ To Do:
 - Menu 
 - Game Mechanics
 - Keyboard Answer
+- Random generator (50% chance)
