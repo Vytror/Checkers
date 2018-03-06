@@ -39,6 +39,21 @@ int black_checkers(void){
 }
 
 int new_game(void){
+
+	int random, white, black;
+
+	srand ( time ( NULL ) );
+	random = rand() % 100 + 1;
+
+	if( random >= 50 ){
+		printf( "White Pieces begin first\n" );
+		}
+	else if( random < 50 ){
+		printf( "Black Pieces begin first\n" );
+		}
+	return 0;
+}
+
 }
 
 int main(void){
