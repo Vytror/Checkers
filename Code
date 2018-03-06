@@ -28,7 +28,6 @@ printf("\n%c%c%c%c%c",204,205,205,205,185);
 	printf("\n%c%c%c%c%c",186,0,0,0,186);
 	printf("\n%c%c%c%c%c\n",200,205,205,205,188);
 }
-}
 
 int white_checkers(void){
   printf("%c%c%c\n%c%c%c\n",218,196,191,192,196,217);
