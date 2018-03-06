@@ -19,3 +19,8 @@ int black_checkers(void){
 
 int new_game(void){
 }
+
+int main(void){
+
+	return 0;
+}
