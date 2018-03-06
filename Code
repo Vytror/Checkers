@@ -1,17 +1,20 @@
 #include <stdio.h>
 #include <time.h>
 
-//218 217 191 192 <- Checkers
+//printf("%c%c%c\n%c%c%c\n",218,196,191,192,196,217); <- White Checkers
+//printf("\n%c%c%c",222,219,221);<- Black Checkers
 //206 205 204 203 202 201 200 188 187 186 185 <- Table
 
 int table(void){
 
 }
 
-char white_checkers(void){
+int white_checkers(void){
+  printf("%c%c%c\n%c%c%c\n",218,196,191,192,196,217); <- White Checkers
 }
 
-char black_checkers(void){
+int black_checkers(void){
+  printf("\n%c%c%c",222,219,221);<- Black Checkers
 }
 
 int new_game(void){
