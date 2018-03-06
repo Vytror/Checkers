@@ -10,11 +10,11 @@ int table(void){
 }
 
 int white_checkers(void){
-  printf("%c%c%c\n%c%c%c\n",218,196,191,192,196,217); <- White Checkers
+  printf("%c%c%c\n%c%c%c\n",218,196,191,192,196,217);
 }
 
 int black_checkers(void){
-  printf("\n%c%c%c",222,219,221);<- Black Checkers
+  printf("\n%c%c%c",222,219,221);
 }
 
 int new_game(void){
