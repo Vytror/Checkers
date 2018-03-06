@@ -51,8 +51,6 @@ int new_game(void){
 	else if( random < 50 ){
 		printf( "Black Pieces begin first\n" );
 		}
-	return 0;
-}
 
 }
 
