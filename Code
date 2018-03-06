@@ -5,7 +5,29 @@ int table(void){
 	printf("%c%c%c%c%c",201,205,205,205,187);
 	printf("\n%c%c%c%c%c",186,0,0,0,186);
 	printf("\n%c%c%c%c%c",186,0,0,0,186);
-	printf("\n%c%c%c%c%c",200,205,205,205,188);
+	printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+printf("\n%c%c%c%c%c",204,205,205,205,185);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c",186,0,0,0,186);
+	printf("\n%c%c%c%c%c\n",200,205,205,205,188);
+}
 }
 
 int white_checkers(void){
